@@ -15,10 +15,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-       
-        print("尝试创建git分支")
-        
-        print("创建分支")
+
+        print("创建分支 live_feature")
     }
 
     
