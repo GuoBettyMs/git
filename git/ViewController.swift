@@ -12,10 +12,15 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
        
-        print("尝试创建git分支")
+        print("创建git主分支")
+        
         
     }
 
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
 
+    }
+    
 }
 
