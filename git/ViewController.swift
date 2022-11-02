@@ -6,7 +6,7 @@
 //
 
 /*
- 选中某文件，Source Control -> Discard Changes in Selected files.. 取消该文件更改的内容
+    选中某文件，Source Control -> Discard Changes in Selected files.. 取消该文件更改的内容
  */
 
 import UIKit
