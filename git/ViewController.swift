@@ -4,7 +4,7 @@
 //
 //  Created by gbt on 2022/8/3.
 //
-/*
+/*3
     选中某文件，Source Control -> Discard Changes in Selected files.. 取消该文件更改的内容
  */
 
