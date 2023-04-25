@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         print("创建git主分支")
         print("创建分支 live_feature")
         print("创建分支 pay_feature")
-//        print("在smartGit 使用ssh 克隆")
+        print("在smartGit 使用ssh 克隆")
         
     }
 
