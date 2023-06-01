@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         print("创建分支 live_feature")
         print("创建分支 pay_feature")
         print("在smartGit 使用ssh 克隆")
-        
+        //2023.6.1 smartgit 23.1 预览版提交测试
     }
 
     override func viewDidAppear(_ animated: Bool) {
